@@ -1,0 +1,7 @@
+1) we have to create a folder
+2) we have to create a filename.html
+3) we have to create a filename.css
+4) we have to link css file in html file by -> link command 
+5) HTML need -> to write a body or images ect.....
+6) CSS  need -> to style the text etc...
+7) **css file is get access by class 
